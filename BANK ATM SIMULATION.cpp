@@ -5,7 +5,8 @@ members--->1)deposit amt and update bal
 		   3)compute and deposit int;
 		   4)withdraw amt for costumer after checking bal and update the bal;
 		   5)check for min balance (current acc) and impose penalty (if any) and
-		   update the bal */
+		   update the bal 
+Now my Project is uploaded on Github as Well :) */
 #include<iostream>
 #include<math.h>
 #include<process.h>
